@@ -1,6 +1,6 @@
-package edu.utfpr.cp.dacom.sa.soilcorrection.conversores;
+package edu.utfpr.cp.dacom.sa.soilcorrection.control.conversores;
 
-import edu.utfpr.cp.dacom.sa.soilcorrection.interfaces.Conversao;
+import edu.utfpr.cp.dacom.sa.soilcorrection.control.interfaces.Conversao;
 import lombok.NonNull;
 
 public class ConverteMgDm3EmKgHa implements Conversao<Double, Double> {

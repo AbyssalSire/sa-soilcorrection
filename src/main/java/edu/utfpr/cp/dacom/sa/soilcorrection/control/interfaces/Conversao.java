@@ -1,4 +1,4 @@
-package edu.utfpr.cp.dacom.sa.soilcorrection.interfaces;
+package edu.utfpr.cp.dacom.sa.soilcorrection.control.interfaces;
 
 public interface Conversao<T, R> {
 

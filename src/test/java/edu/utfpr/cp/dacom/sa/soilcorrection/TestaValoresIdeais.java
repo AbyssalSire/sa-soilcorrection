@@ -4,9 +4,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import edu.utfpr.cp.dacom.sa.soilcorrection.corretores.EquilibrioCorrecaoCTC;
-import edu.utfpr.cp.dacom.sa.soilcorrection.nutrientes.NutrientesCTC;
-import edu.utfpr.cp.dacom.sa.soilcorrection.solo.TexturaSolo;
+import edu.utfpr.cp.dacom.sa.soilcorrection.control.corretores.EquilibrioCorrecaoCTC;
+import edu.utfpr.cp.dacom.sa.soilcorrection.model.nutrientes.NutrientesCTC;
+import edu.utfpr.cp.dacom.sa.soilcorrection.model.solo.TexturaSolo;
 
 public class TestaValoresIdeais {
 

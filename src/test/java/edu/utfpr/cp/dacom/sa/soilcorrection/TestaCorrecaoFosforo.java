@@ -2,10 +2,10 @@ package edu.utfpr.cp.dacom.sa.soilcorrection;
 
 import org.junit.jupiter.api.Test;
 
-import edu.utfpr.cp.dacom.sa.soilcorrection.conversores.ConverteKgHaEmP2O5;
-import edu.utfpr.cp.dacom.sa.soilcorrection.conversores.ConverteMgDm3EmKgHa;
-import edu.utfpr.cp.dacom.sa.soilcorrection.corretores.CorrecaoFosforo;
-import edu.utfpr.cp.dacom.sa.soilcorrection.fonte.FonteFosforo;
+import edu.utfpr.cp.dacom.sa.soilcorrection.control.conversores.ConverteKgHaEmP2O5;
+import edu.utfpr.cp.dacom.sa.soilcorrection.control.conversores.ConverteMgDm3EmKgHa;
+import edu.utfpr.cp.dacom.sa.soilcorrection.control.corretores.CorrecaoFosforo;
+import edu.utfpr.cp.dacom.sa.soilcorrection.model.fonte.FonteFosforo;
 
 import static org.junit.jupiter.api.Assertions.*;
 

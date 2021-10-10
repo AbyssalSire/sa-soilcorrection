@@ -1,8 +1,8 @@
-package edu.utfpr.cp.dacom.sa.soilcorrection.corretores;
+package edu.utfpr.cp.dacom.sa.soilcorrection.control.corretores;
 
-import edu.utfpr.cp.dacom.sa.soilcorrection.fonte.FontePotassio;
-import edu.utfpr.cp.dacom.sa.soilcorrection.interfaces.ICorrecaoNutriente;
-import edu.utfpr.cp.dacom.sa.soilcorrection.interfaces.ICorrecaoNutrienteQuantidadeAplicar;
+import edu.utfpr.cp.dacom.sa.soilcorrection.control.interfaces.ICorrecaoNutriente;
+import edu.utfpr.cp.dacom.sa.soilcorrection.control.interfaces.ICorrecaoNutrienteQuantidadeAplicar;
+import edu.utfpr.cp.dacom.sa.soilcorrection.model.fonte.FontePotassio;
 
 public class CorrecaoPotassio 
         implements 

@@ -4,10 +4,10 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import edu.utfpr.cp.dacom.sa.soilcorrection.conversores.ConverteCMolcDm3EmMgDm3;
-import edu.utfpr.cp.dacom.sa.soilcorrection.conversores.ConverteKgHaEmK2O;
-import edu.utfpr.cp.dacom.sa.soilcorrection.corretores.CorrecaoPotassio;
-import edu.utfpr.cp.dacom.sa.soilcorrection.fonte.FontePotassio;
+import edu.utfpr.cp.dacom.sa.soilcorrection.control.conversores.ConverteCMolcDm3EmMgDm3;
+import edu.utfpr.cp.dacom.sa.soilcorrection.control.conversores.ConverteKgHaEmK2O;
+import edu.utfpr.cp.dacom.sa.soilcorrection.control.corretores.CorrecaoPotassio;
+import edu.utfpr.cp.dacom.sa.soilcorrection.model.fonte.FontePotassio;
 
 public class TestaCorrecaoPotassio {
 
