@@ -1,4 +1,4 @@
-package edu.utfpr.cp.dacom.sa.soilcorrectio.solo;
+package edu.utfpr.cp.dacom.sa.soilcorrection.solo;
 
 import edu.utfpr.cp.dacom.sa.soilcorrection.nutrientes.NutrientesCTC;
 
