@@ -1,5 +1,6 @@
-package edu.utfpr.cp.dacom.sa.soilcorrection;
+package edu.utfpr.cp.dacom.sa.soilcorrection.potassio;
 
+import edu.utfpr.cp.dacom.sa.soilcorrection.Conversao;
 import lombok.NonNull;
 
 public class ConverteKgHaEmK2O 

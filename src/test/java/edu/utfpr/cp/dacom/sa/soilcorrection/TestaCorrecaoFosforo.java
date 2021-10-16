@@ -2,6 +2,8 @@ package edu.utfpr.cp.dacom.sa.soilcorrection;
 
 import org.junit.jupiter.api.Test;
 
+import edu.utfpr.cp.dacom.sa.soilcorrection.fosforo.*;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TestaCorrecaoFosforo {
