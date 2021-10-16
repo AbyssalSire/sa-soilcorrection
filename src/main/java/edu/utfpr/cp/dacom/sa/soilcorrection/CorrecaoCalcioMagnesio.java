@@ -1,7 +1,4 @@
-package edu.utfpr.cp.dacom.sa.soilcorrection.control.corretores;
-
-import edu.utfpr.cp.dacom.sa.soilcorrection.control.interfaces.ICorrecaoNutriente;
-import edu.utfpr.cp.dacom.sa.soilcorrection.model.fonte.FonteCalcioMagnesio;
+package edu.utfpr.cp.dacom.sa.soilcorrection;
 
 public class CorrecaoCalcioMagnesio 
         implements ICorrecaoNutriente<FonteCalcioMagnesio> {

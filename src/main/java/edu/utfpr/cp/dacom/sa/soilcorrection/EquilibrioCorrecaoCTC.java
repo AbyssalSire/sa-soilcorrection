@@ -1,4 +1,4 @@
-package edu.utfpr.cp.dacom.sa.soilcorrection.control.corretores;
+package edu.utfpr.cp.dacom.sa.soilcorrection;
 
 public class EquilibrioCorrecaoCTC {
 

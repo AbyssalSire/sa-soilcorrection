@@ -1,4 +1,4 @@
-package edu.utfpr.cp.dacom.sa.soilcorrection.control.interfaces;
+package edu.utfpr.cp.dacom.sa.soilcorrection;
 
 public interface ICorrecaoNutrienteQuantidadeAplicar<T extends IFonteNutriente> {
     

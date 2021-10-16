@@ -4,9 +4,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import edu.utfpr.cp.dacom.sa.soilcorrection.control.corretores.CorrecaoCalcioMagnesio;
-import edu.utfpr.cp.dacom.sa.soilcorrection.model.fonte.FonteCalcioMagnesio;
-
 public class TestaCorrecaoCalcioMagnesio {
 
     @Test
