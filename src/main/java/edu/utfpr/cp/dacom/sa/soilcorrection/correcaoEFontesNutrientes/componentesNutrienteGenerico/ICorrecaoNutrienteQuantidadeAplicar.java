@@ -1,4 +1,4 @@
-package edu.utfpr.cp.dacom.sa.soilcorrection.nutrientes;
+package edu.utfpr.cp.dacom.sa.soilcorrection.correcaoEFontesNutrientes.componentesNutrienteGenerico;
 
 public interface ICorrecaoNutrienteQuantidadeAplicar<T extends IFonteNutriente> {
     

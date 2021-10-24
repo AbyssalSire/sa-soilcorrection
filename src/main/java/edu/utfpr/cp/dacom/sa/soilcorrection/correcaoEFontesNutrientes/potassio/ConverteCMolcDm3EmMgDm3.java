@@ -1,6 +1,6 @@
-package edu.utfpr.cp.dacom.sa.soilcorrection.potassio;
+package edu.utfpr.cp.dacom.sa.soilcorrection.correcaoEFontesNutrientes.potassio;
 
-import edu.utfpr.cp.dacom.sa.soilcorrection.Conversao;
+import edu.utfpr.cp.dacom.sa.soilcorrection.correcaoEFontesNutrientes.componentesNutrienteGenerico.Conversao;
 import lombok.NonNull;
 
 public class ConverteCMolcDm3EmMgDm3 

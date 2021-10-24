@@ -2,7 +2,7 @@ package edu.utfpr.cp.dacom.sa.soilcorrection;
 
 import org.junit.jupiter.api.Test;
 
-import edu.utfpr.cp.dacom.sa.soilcorrection.fosforo.*;
+import edu.utfpr.cp.dacom.sa.soilcorrection.correcaoEFontesNutrientes.fosforo.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 

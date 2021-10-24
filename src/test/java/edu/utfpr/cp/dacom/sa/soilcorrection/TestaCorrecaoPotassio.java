@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import edu.utfpr.cp.dacom.sa.soilcorrection.potassio.*;
+import edu.utfpr.cp.dacom.sa.soilcorrection.correcaoEFontesNutrientes.potassio.*;
 
 public class TestaCorrecaoPotassio {
 

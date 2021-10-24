@@ -1,10 +1,10 @@
-package edu.utfpr.cp.dacom.sa.soilcorrection.calcioMagnesio;
+package edu.utfpr.cp.dacom.sa.soilcorrection.correcaoEFontesNutrientes.calcioMagnesio;
 
 import java.util.Set;
 
-import edu.utfpr.cp.dacom.sa.soilcorrection.nutrientes.IFonteNutriente;
-import edu.utfpr.cp.dacom.sa.soilcorrection.nutrientes.NomeNutrienteAdicional;
-import edu.utfpr.cp.dacom.sa.soilcorrection.nutrientes.NutrienteAdicional;
+import edu.utfpr.cp.dacom.sa.soilcorrection.correcaoEFontesNutrientes.componentesNutrienteGenerico.IFonteNutriente;
+import edu.utfpr.cp.dacom.sa.soilcorrection.correcaoEFontesNutrientes.componentesNutrienteGenerico.NomeNutrienteAdicional;
+import edu.utfpr.cp.dacom.sa.soilcorrection.correcaoEFontesNutrientes.componentesNutrienteGenerico.NutrienteAdicional;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 

@@ -1,6 +1,6 @@
-package edu.utfpr.cp.dacom.sa.soilcorrection.fosforo;
+package edu.utfpr.cp.dacom.sa.soilcorrection.correcaoEFontesNutrientes.fosforo;
 
-import edu.utfpr.cp.dacom.sa.soilcorrection.Conversao;
+import edu.utfpr.cp.dacom.sa.soilcorrection.correcaoEFontesNutrientes.componentesNutrienteGenerico.Conversao;
 import lombok.NonNull;
 
 public class ConverteMgDm3EmKgHa implements Conversao<Double, Double> {
